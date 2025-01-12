@@ -1,8 +1,11 @@
 # Aeltharic Language Repository
 
-Welcome to the repository for managing the lexicon, grammar, and cultural elements of the Aeltharic language. 
+Welcome to the Aeltharic Language Repository, your one-stop platform for managing and exploring the messages, lexicon, and world of Aeltharic. 
+
+Collaborate, contribute, and refine your own constructed language. Browse the repository structure and utilize specialized files and scripts to start contributing to the Aeltharic project.
 
 ## Repository Structure
-- `lexicon/` : Files and resources related to the lexical system.
-- `grammar/` : Documents compiling rules and syntax.
-- `dialects/` : Conveys on archaic and modern dialects.
+
+- `readme.md`: Repository overview.
+- `lexicon/*`: Core lexicon entries.
+- `grammar/* & dialects/*`: Specialized sections for rules and dialects.
