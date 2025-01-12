@@ -1043,3 +1043,18 @@
 98. **Zoritharnithal** - Celestial Song
 99. **Sylorithalornis** - Song of Unity
 100. **Therivornilthar** - Ceremonial Glow
+
+---
+
+### Maritime Roots
+
+-   _maran_ (sea/ocean)
+-   _lur_ (wave/motion)
+-   _nav_ (ship/vessel)
+-   _thar_ (wind)
+-   _oril_ (star/navigation)
+-   _vyr_ (storm)
+-   _gyn_ (depth)
+-   _syl_ (sail)
+-   _aer_ (fish/marine life)
+-   _valk_ (coast/shore)
