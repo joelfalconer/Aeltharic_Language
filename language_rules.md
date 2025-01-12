@@ -1,3 +1,3 @@
-#
-Athe Aeltharic Language User Guide
+
+# Athe Aeltharic Language User Guide
 Domains, syntacts and common symbolic concepts.
