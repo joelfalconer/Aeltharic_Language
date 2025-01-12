@@ -1,0 +1,18 @@
+name: Lexicon Content Management
+
+on:
+    push:
+        refs:
+            - main
+
+jobs:
+    validate:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: Check for Markdown Lint
+              repos: joelfalconer/Aeltharic_Language
+              runs: |
+                 - markdownlint-cli1
+            - name: Validate Templates
+              run: python Scripts/template_validate.py
