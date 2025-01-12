@@ -1,0 +1,13 @@
+name: Grammar Validation
+
+on
+    push:
+        refs:
+            - main
+
+jobs:
+    validate:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Rn Grammar Tests
+              run: python test_grammar.py
