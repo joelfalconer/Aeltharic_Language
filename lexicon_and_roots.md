@@ -213,7 +213,7 @@ This document introduces new roots for the Aeltharic language, each with symboli
 
 ---
 
-### **1-10: Elements and Natural Phenomena**
+### Elements and Natural Phenomena
 1. **Vel** - Light
 2. **Drith** - Shadow
 3. **Thar** - Gate
@@ -227,7 +227,7 @@ This document introduces new roots for the Aeltharic language, each with symboli
 
 ---
 
-### **11-20: Emotions and States**
+### Emotions and States
 11. **Avar** - Love
 12. **Thren** - Sorrow
 13. **Kylar** - Joy
@@ -241,7 +241,7 @@ This document introduces new roots for the Aeltharic language, each with symboli
 
 ---
 
-### **21-30: Actions and Processes**
+### Actions and Processes
 21. **Kynth** - Build
 22. **Ravik** - Destroy
 23. **Nelar** - Create
@@ -255,7 +255,7 @@ This document introduces new roots for the Aeltharic language, each with symboli
 
 ---
 
-### **31-40: Abstract Concepts**
+### Abstract Concepts
 31. **Velis** - Truth
 32. **Drinor** - Illusion
 33. **Thalas** - Wisdom
@@ -269,7 +269,7 @@ This document introduces new roots for the Aeltharic language, each with symboli
 
 ---
 
-### **41-50: Celestial and Cosmic**
+### Celestial and Cosmic
 41. **Aevar** - Star
 42. **Orinth** - Sky
 43. **Kyrion** - Sun
@@ -283,7 +283,7 @@ This document introduces new roots for the Aeltharic language, each with symboli
 
 ---
 
-### **51-60: Temporal Terms**
+### Temporal Terms
 51. **Velion** - Dawn
 52. **Drithan** - Dusk
 53. **Narith** - Cycle
@@ -297,7 +297,7 @@ This document introduces new roots for the Aeltharic language, each with symboli
 
 ---
 
-### **61-70: Spiritual and Mythic**
+### Spiritual and Mythic
 61. **Velarion** - Guardian
 62. **Tharionis** - Seeker
 63. **Kryndar** - Shard
@@ -311,7 +311,7 @@ This document introduces new roots for the Aeltharic language, each with symboli
 
 ---
 
-### **71-80: Flora and Fauna**
+### Flora and Fauna
 71. **Sylmor** - Tree
 72. **Thalir** - Flower
 73. **Naryth** - Grass
@@ -325,7 +325,7 @@ This document introduces new roots for the Aeltharic language, each with symboli
 
 ---
 
-### **81-90: Materials and Objects**
+### Materials and Objects
 81. **Tharal** - Stone
 82. **Sylor** - Wood
 83. **Drithal** - Metal
@@ -339,7 +339,7 @@ This document introduces new roots for the Aeltharic language, each with symboli
 
 ---
 
-### **91-100: Cultural and Ceremonial**
+### Cultural and Ceremonial
 91. **Velinor** - Song
 92. **Drithenith** - Dance
 93. **Tharlis** - Feast
