@@ -1047,14 +1047,113 @@
 ---
 
 ### Maritime Roots
+#### **1\. _maran_ (sea/ocean)**
 
--   _maran_ (sea/ocean)
--   _lur_ (wave/motion)
--   _nav_ (ship/vessel)
--   _thar_ (wind)
--   _oril_ (star/navigation)
--   _vyr_ (storm)
--   _gyn_ (depth)
--   _syl_ (sail)
--   _aer_ (fish/marine life)
--   _valk_ (coast/shore)
+-   **Symbolism**: Represents vastness, mystery, and the cyclical nature of life. _Maran_ embodies both the nurturing and destructive aspects of the sea, reflecting Aeltharic philosophy of duality.
+-   **Cultural Significance**:
+    -   Central to seafaring cultures, where it is revered as a source of life and connection to the divine.
+    -   Ceremonies like _Maranvalk_ (shore rituals) honor the sea's power.
+-   **Examples**:
+    -   **Maranna**: The boundless ocean (poetic/formal term).
+    -   **Marlurvyr**: Chaotic sea during a storm.
+    -   **Orilmaran**: The "Star Sea" (metaphor for night navigation).
+
+#### **2\. _lur_ (wave/motion)**
+
+-   **Symbolism**: Embodies the flow and rhythm of nature, often tied to cycles of change and continuity.
+-   **Cultural Significance**:
+    -   Used metaphorically in rituals to represent life's constant motion.
+    -   Waves symbolize communication between the physical and spiritual realms.
+-   **Examples**:
+    -   **Gynlur**: The motion of the deep (currents).
+    -   **Tharlur**: Wind-driven waves.
+    -   **Lurthar**: To sail with the wind.
+
+#### **3\. _nav_ (ship/vessel)**
+
+-   **Symbolism**: A vessel for transformation and journey, both literal and spiritual. _Nav_ often represents the bridge between land and the unknown.
+-   **Cultural Significance**:
+    -   Ships are blessed in rituals like _Navkithar_ to ensure safe passage.
+    -   Considered symbols of resilience and adaptability.
+-   **Examples**:
+    -   **Sylgynnav**: Deep-sea vessel with large sails.
+    -   **Vyrnav**: Storm-resistant warship.
+    -   **Navet**: Small boat or skiff.
+
+#### **4\. _thar_ (wind)**
+
+-   **Symbolism**: Associated with change, guidance, and unseen forces. _Thar_ is revered as a life force that propels and transforms.
+-   **Cultural Significance**:
+    -   Wind is invoked in rituals for navigation and blessings.
+    -   Represents freedom and divine intervention in myths.
+-   **Examples**:
+    -   **Tharvalk**: Coastal winds.
+    -   **Vyrthar**: Storm winds.
+    -   **Lurthar**: To ride or harness the wind.
+
+#### **5\. _oril_ (star/navigation)**
+
+-   **Symbolism**: Represents guidance, destiny, and constancy amidst chaos. _Oril_ connects the heavens with the journey of life.
+-   **Cultural Significance**:
+    -   Stars are sacred symbols in navigation and ritual practices.
+    -   The term is used poetically to signify hope or clarity.
+-   **Examples**:
+    -   **Orilsyn**: Star-calling ceremony.
+    -   **Orilnav**: Star-guided exploration vessel.
+    -   **Gynoril**: A deep, spiritual connection to the sea.
+
+#### **6\. _vyr_ (storm)**
+
+-   **Symbolism**: Storms symbolize challenge, transformation, and the interplay of destruction and renewal. _Vyr_ reflects the volatile side of nature.
+-   **Cultural Significance**:
+    -   Storms are personified in myths as tests of resilience.
+    -   Rituals like _Vyrthalas_ (storm chants) aim to pacify their fury.
+-   **Examples**:
+    -   **Vyrthalas**: Prayer to quell storms.
+    -   **Marlurvyr**: The chaotic sea during a storm.
+    -   **Vyrlyn**: Stormy (adjective).
+
+#### **7\. _gyn_ (depth)**
+
+-   **Symbolism**: Depth is tied to mystery, introspection, and the unknown. _Gyn_ often connotes profound emotional or spiritual states.
+-   **Cultural Significance**:
+    -   Depth is revered in myths as the domain of ancient beings and hidden truths.
+    -   Ceremonial phrases use _gyn_ to emphasize spiritual depth.
+-   **Examples**:
+    -   **Gynlur**: The motion of the deep.
+    -   **Gynvoral**: Deep-sea serpent.
+    -   **Sylgynnav**: Vessel designed for the depths.
+
+
+#### **8\. _syl_ (sail)**
+
+-   **Symbolism**: Represents propulsion, ambition, and the human spirit’s ability to harness natural forces.
+-   **Cultural Significance**:
+    -   Sails are blessed during rituals like _Sylkynar_ (tying of the sails).
+    -   Symbolic of the connection between human ingenuity and nature.
+-   **Examples**:
+    -   **Sylvak**: Coastal skiff.
+    -   **Sylkynar**: Ritual tying of sails.
+    -   **Syloril**: Guided by sails and stars.
+
+#### **9\. _aer_ (fish/marine life)**
+
+-   **Symbolism**: Associated with life, abundance, and adaptability. _Aer_ represents the interconnectedness of marine ecosystems.
+-   **Cultural Significance**:
+    -   Fish are central to myths and daily sustenance.
+    -   Mythical creatures like _Aerlyn_ are seen as omens or divine messengers.
+-   **Examples**:
+    -   **Aerlyn**: Mythical flying fish.
+    -   **Aerthar**: Wind fish.
+    -   **Marluvan aerthar**: Guardian of marine life.
+
+#### **10\. _valk_ (coast/shore)**
+
+-   **Symbolism**: The meeting place of opposites—land and sea. _Valk_ signifies transitions and boundaries.
+-   **Cultural Significance**:
+    -   Shores are sacred sites for rituals like _Maranvalk_ (shore prayers).
+    -   Represent both beginnings and endings in myths and journeys.
+-   **Examples**:
+    -   **Tharvalk**: Coastal winds.
+    -   **Valkthyrin**: Shore ceremony to honor sea spirits.
+    -   **Marluvan valkynar**: Guardian of the sacred shore.
