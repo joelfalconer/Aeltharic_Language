@@ -1,0 +1,15 @@
+name: Lexicon Validation
+
+on
+    pull_request:
+        paths:
+            - "lexicon/*"
+
+jobs:
+    validate:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Lint Markdown
+              uses: DavidAnson/markdownlint-cli2-action@v3
+            - name: Run Validation Script
+              run: python lexicon/templates/validation_script.py "lexicon/*"
