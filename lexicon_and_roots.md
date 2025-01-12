@@ -353,5 +353,79 @@ This document introduces new roots for the Aeltharic language, each with symboli
 
 ---
 
-These 100 roots significantly expand the Aeltharic linguistic framework, allowing for rich cultural, mythological, and everyday integration. Next steps include deriving compound words and incorporating these into relevant Aeltharic rituals, texts, and narratives.
+---
 
+#### **1. Marlurvyr** (chaotic sea during a storm)
+- **Definition**: The turbulent sea state caused by violent storms, symbolizing chaos and transformation.
+- **Usage Examples**:
+  - **Practical**: "The sailors avoided the marlurvyr to ensure their survival."
+    - *(“Navlyn nar vyr marlurvyr lurthar kynar valkthyrin.”)*  
+  - **Ceremonial**: A ritual to calm the chaotic sea is often performed during marlurvyr conditions.
+    - Ritual Phrase: *"Vyr gynlur maranna thar ilyssar."*  
+      *(“Storm of the deep sea winds, calm by the sacred!”)*
+  - **Poetic**: "The marlurvyr sings its fury across the valkynar."
+    - *(“Marlurvyr naril valkynar vyr sylorith.”)*
+
+---
+
+#### **2. Aerlyn** (mythical flying fish)
+- **Definition**: A legendary fish said to leap gracefully through waves, representing freedom and good fortune.
+- **Usage Examples**:
+  - **Practical**: "Aerlyn sightings are believed to signal calm seas ahead."
+    - *(“Aerlyn nav thir maran sylthar kynar orilnav.”)*  
+  - **Ceremonial**: During rituals, representations of aerlyn are carved into ship bows for good fortune.
+    - Ritual Phrase: *“Aerlyn kynar vyrthalas drith syloril.”*  
+      *(“The flying fish guides through stormy chants.”)*
+  - **Poetic**: "Like an aerlyn, the spirit soars beyond the vyrthar."
+    - *(“Nar aerlyn, sylorith vyrthar drithanor naril oril.”)*
+
+---
+
+#### **3. Tharlur** (wind-driven waves)
+- **Definition**: Waves formed by strong winds, often associated with the breath of the sea spirits.
+- **Usage Examples**:
+  - **Practical**: "The tharlur carried the ship swiftly to the valk."
+    - *(“Tharlur kynir nav lurthar valkthyrin.”)*  
+  - **Ceremonial**: In coastal rituals, tharlur are invoked as symbols of power and motion.
+    - Ritual Phrase: *“Tharlur maranna kynar valkynar sylthar.”*  
+      *(“Wind-driven waves guide the sacred shore’s breath.”)*
+  - **Poetic**: "Tharlur whispers of the maranna’s secrets."
+    - *(“Tharlur naril maranna gynlor sylorith.”)*
+
+---
+
+#### **4. Navkithar** (ship-blessing ceremony)
+- **Definition**: A ceremonial act performed to bless a ship before its maiden voyage, ensuring safe passage and divine protection.
+- **Usage Examples**:
+  - **Practical**: "Every ship undergoes a navkithar before it sails the maranna."
+    - *(“Navkynar kynir nav lurthar maranna vyr.”)*  
+  - **Ceremonial**: Saltwater is splashed on the ship's bow while prayers are sung to the sea guardians.
+    - Ritual Phrase: *“Sylnav maranna vyrthar thalas kynar!”*  
+      *(“May the sails guide the ship and the storm yield to peace!”)*
+  - **Poetic**: "Blessed be the navkynar that cuts through vyrthar."
+    - *(“Nar kynar navkithar vyr drith syloril.”)*
+
+---
+
+#### **5. Sylgynnav** (deep-sea vessel with sails)
+- **Definition**: A large vessel equipped with sails, designed for navigating the deep ocean and enduring its challenges.
+- **Usage Examples**:
+  - **Practical**: "The sylgynnav was prepared for a long journey across the maranna."
+    - *(“Sylgynnav vyr lur maranna thyr valkthyrin kynar oril.”)*  
+  - **Ceremonial**: During its christening, a sylgynnav is adorned with sacred symbols of protection.
+    - Ritual Phrase: *“Sylgynnav maranna kynar vyrthalas.”*  
+      *(“The deep-sea vessel is blessed against storms.”)*
+  - **Poetic**: "The sylgynnav’s sails spoke of courage, cutting through the chaos of marlurvyr."
+    - *(“Sylgynnav syl vyrthar nar marlurvyr kynar orilnav.”)*
+
+---
+
+### Summary Table of Derivatives
+
+| **Word**       | **Meaning**                              | **Symbolism**                             |
+|----------------|------------------------------------------|-------------------------------------------|
+| **Marlurvyr**  | Chaotic sea during a storm               | Chaos, transformation, and resilience.   |
+| **Aerlyn**     | Mythical flying fish                     | Freedom, fortune, and spiritual grace.    |
+| **Tharlur**    | Wind-driven waves                        | Motion, power, and divine breath.         |
+| **Navkithar**  | Ship-blessing ceremony                   | Protection, journey, and divine favor.    |
+| **Sylgynnav**  | Deep-sea vessel with sails               | Exploration, endurance, and ingenuity.    |
